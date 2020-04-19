@@ -59,6 +59,7 @@ public class App {
                 System.out.print(c);
             }
             System.out.println();
+            System.out.println();
         }
     }
 
